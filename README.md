@@ -112,13 +112,7 @@ REACT_APP_API_BASE_URL=http://localhost:5000
 npm start
 ```
 
----
 
-## ✨ Demo (optional)
-
-> Add screenshots or a link to a live demo here if hosted.
-
----
 
 ## 🧩 Future Enhancements
 
