@@ -51,6 +51,13 @@ npm install
 npm start
 ```
 
+The React frontend will be available at:  
+👉 **http://localhost:3000/**
+
+The Express backend runs on:  
+👉 **http://localhost:5000/**
+
+
 ## 📦 Installation
 
 ### 1. Clone the Repository
