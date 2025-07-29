@@ -132,4 +132,4 @@ Pull requests and suggestions are welcome! Fork this repo and submit a PR.
 
 ## 💡 Author
 
-Made with ❤️ by [Your Name](https://github.com/Omchaudhary2004)
+Made with ❤️ by [Om Chaudhary](https://github.com/Omchaudhary2004)
