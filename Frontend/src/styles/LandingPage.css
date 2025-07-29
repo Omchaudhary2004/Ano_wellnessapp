@@ -1,0 +1,92 @@
+/* Navbar Styles */
+.navbar {
+  background-color: #ffffff;
+  padding: 15px 30px;
+  border-bottom: 1px solid #e5e7eb;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-brand {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #10b981;
+}
+
+.navbar-links a {
+  margin-left: 20px;
+  text-decoration: none;
+  color: #374151;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.navbar-links a:hover {
+  color: #10b981;
+}
+
+/* Landing Page Styles */
+.landing-container {
+  min-height: calc(100vh - 70px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to right, #e0f7fa, #e8f5e9);
+  padding: 40px;
+}
+
+.landing-content {
+  max-width: 600px;
+  text-align: center;
+}
+
+.landing-content h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.highlight {
+  color: #10b981;
+}
+
+.landing-content p {
+  font-size: 1.2rem;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.button-group {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.login-btn,
+.register-btn {
+  padding: 12px 24px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.login-btn {
+  background-color: #3b82f6;
+  color: white;
+}
+
+.login-btn:hover {
+  background-color: #2563eb;
+}
+
+.register-btn {
+  background-color: #10b981;
+  color: white;
+}
+
+.register-btn:hover {
+  background-color: #059669;
+}
