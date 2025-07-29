@@ -33,28 +33,23 @@ A full-stack wellness dashboard to help users build healthy habits and stay cons
 - dotenv for environment configs
 
 ---
+## 🔧 How to Run the App Locally
 
-## 🚀 Project Structure
+### 1. Start the Backend
 
-```
-root/
-│
-├── backend/
-│   ├── index.js              # Express backend
-│   └── .env                  # MongoDB URI & JWT Secret
-│
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/       # Task list, Login form, etc.
-│   │   ├── App.jsx
-│   │   └── index.js
-│   └── .env                  # API base URL
-│
-└── README.md
+```bash
+cd backend
+npm install
+npm start
 ```
 
----
+### 2. Start the Frontend (in a new terminal)
+
+```bash
+cd frontend
+npm install
+npm start
+```
 
 ## 📦 Installation
 
